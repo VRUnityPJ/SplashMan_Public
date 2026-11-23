@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b89ba21af1050a14d8898b9c04b4edb2, type: 3}
+  m_Name: BgmAudioDataBase
+  m_EditorClassIdentifier: Assembly-CSharp::Runtime.Audio.BgmAudioDataBase
+  _audioClipList:
+  - _name: MasterBGM
+    _clip: {fileID: 8300000, guid: d102051c53a7b4e4eb3c0247644646a0, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd47ff2a9b29ef43a1c20a20cf9b175, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: Assembly-CSharp::Runtime.Enemy.EnemyMasterData
+  _prefab: {fileID: 1099129107009848526, guid: a43be4e2091254e31a2a271415c47a9f, type: 3}
+  _enemyName: "\u30B4\u30FC\u30EC\u30E0"
+  _hp: 150
+  _attackPower: 200
+  _defensePower: 80
+  _moveSpeed: 0.5
+  _score: 500

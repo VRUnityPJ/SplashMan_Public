@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd47ff2a9b29ef43a1c20a20cf9b175, type: 3}
+  m_Name: Piglin
+  m_EditorClassIdentifier: Assembly-CSharp::Runtime.Enemy.EnemyMasterData
+  _prefab: {fileID: 5192805590957112715, guid: bd31cbdc48b054a25bceca5e3da9a061, type: 3}
+  _enemyName: "\u30D4\u30B0\u30EA\u30F3"
+  _hp: 20
+  _attackPower: 100
+  _defensePower: 0
+  _moveSpeed: 0.9
+  _score: 300
