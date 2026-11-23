@@ -4,9 +4,6 @@
 
 <img width="1417" height="1417" alt="155ee48117742b23" src="https://github.com/user-attachments/assets/7c63e6a7-1ad0-4aff-bd0b-cbf5efb62747" />
 
-## ダウンロードリンク
-https://github.com/VRUnityPJ/SchoolFestival2026_SplashMan/releases
-
 ## 紹介動画
 https://github.com/user-attachments/assets/8c44a29e-f878-4eaa-9ffb-7520e7d5645d
 
