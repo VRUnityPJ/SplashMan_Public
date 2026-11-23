@@ -7,7 +7,7 @@
 ## ダウンロードリンク
 https://github.com/VRUnityPJ/SchoolFestival2026_SplashMan/releases
 
-## プレイ動画
+## 操作動画
 https://github.com/user-attachments/assets/7b8a9781-be35-491f-908f-16c431b3b0bb
 
 ## 開発環境
